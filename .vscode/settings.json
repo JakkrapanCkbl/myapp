@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bc668836-b35a-4456-8f45-fcedd1a9f76f/AppServices/subscriptions/bc668836-b35a-4456-8f45-fcedd1a9f76f/resourceGroups/jvckstdc_dev/providers/Microsoft.Web/sites/jvckstdc-testdjango",
+    "appService.deploySubpath": "."
+}
